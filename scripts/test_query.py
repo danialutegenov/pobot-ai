@@ -21,6 +21,14 @@ from app.chat import (
 from app.config import AppConfig
 from app.retrieval import confidence_label, load_artifacts, retrieve_chunks, select_diverse_hits
 
+SAMPLE_QUESTIONS = [
+    "What are the rights of domestic workers in Hong Kong?",
+    "What are the rules for recruitment agencies in Hong Kong?",
+    "What is the statutory minimum wage in Hong Kong?",
+    "如果僱主沒有給我休息日，我可以怎麼做？",
+    "Where can migrant workers file a labour complaint in Hong Kong?",
+]
+
 
 def run_query(question: str, top_k: int | None = None) -> dict:
     config = AppConfig.from_env()
@@ -90,8 +98,13 @@ def run_query(question: str, top_k: int | None = None) -> dict:
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Run a single non-UI RAG query.")
-    parser.add_argument("question", help="Question to ask the RAG assistant.")
+    parser.add_argument("question", nargs="?", help="Question to ask the RAG assistant.")
     parser.add_argument("--top-k", type=int, default=None, help="Override retrieval top-k.")
+    parser.add_argument(
+        "--list-sample-questions",
+        action="store_true",
+        help="Print the built-in sample question set and exit.",
+    )
     parser.add_argument(
         "--json",
         action="store_true",
@@ -102,6 +115,11 @@ def parse_args() -> argparse.Namespace:
 
 def main() -> None:
     args = parse_args()
+    if args.list_sample_questions:
+        print(json.dumps(SAMPLE_QUESTIONS, indent=2, ensure_ascii=False))
+        return
+    if not args.question:
+        raise SystemExit("Question is required unless --list-sample-questions is used.")
     result = run_query(args.question, args.top_k)
 
     if args.json:
