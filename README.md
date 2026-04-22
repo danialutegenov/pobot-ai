@@ -2,6 +2,10 @@
 
 This project implements a simple Retrieval-Augmented Generation assistant for Hong Kong labour and employment questions.
 
+## Live Demo
+
+- https://pobot-ai.streamlit.app/
+
 ## What It Includes
 
 - fixed-source data collection from approved Labour Department links
