@@ -63,6 +63,24 @@ Structured output with retrieval metadata:
 python scripts/test_query.py "What are the rules for recruitment agencies in Hong Kong?" --json
 ```
 
+List the built-in sample question set:
+
+```bash
+python scripts/test_query.py --list-sample-questions
+```
+
+## Run 5 Example Test Queries (Batch)
+
+Run the predefined 5 sample questions and save all responses in one report:
+
+```bash
+python scripts/run_sample_queries.py
+```
+
+Where to check the 5 example query outputs:
+
+- `evaluation/sample_queries.md`
+
 ## Submission Mapping
 
 - RAG pipeline scripts/modules: `app/` and `scripts/build_kb.py`
