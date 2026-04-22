@@ -1,0 +1,7 @@
+{
+  "downloaded_sources": 62,
+  "chunk_count": 829,
+  "manifest_path": "/Users/dan06ial/projects/pobot-ai/data/raw/manifest.json",
+  "chunks_path": "/Users/dan06ial/projects/pobot-ai/data/processed/chunks.json",
+  "index_path": "/Users/dan06ial/projects/pobot-ai/data/processed/faiss.index"
+}

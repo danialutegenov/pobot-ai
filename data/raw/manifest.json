@@ -1,0 +1,578 @@
+[
+  {
+    "id": "faq-index-topic-1",
+    "title": "Labour Department FAQ Index Topic 1",
+    "url": "https://www.labour.gov.hk/eng/faq/content.htm#mainContentSkip",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-1.html",
+    "downloaded_at": "2026-04-22T12:45:58.188587+00:00"
+  },
+  {
+    "id": "service-index-topic-46",
+    "title": "Labour Department Services Index Topic 46",
+    "url": "https://www.labour.gov.hk/eng/service/content.htm#mainContentSkip",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-46.html",
+    "downloaded_at": "2026-04-22T12:46:42.657441+00:00"
+  },
+  {
+    "id": "fdh-corner",
+    "title": "FDH Corner",
+    "url": "https://www.fdh.labour.gov.hk/en/fdh_corner.html",
+    "kind": "html",
+    "content_type": "text/html; charset=UTF-8",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/fdh-corner.html",
+    "downloaded_at": "2026-04-22T12:47:59.997475+00:00"
+  },
+  {
+    "id": "employment-guide",
+    "title": "A Concise Guide to the Employment Ordinance",
+    "url": "https://www.labour.gov.hk/eng/public/wcp/ConciseGuide/EO_guide_full.pdf",
+    "kind": "pdf",
+    "content_type": "application/pdf",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/employment-guide.pdf",
+    "downloaded_at": "2026-04-22T12:48:00.532915+00:00"
+  },
+  {
+    "id": "faq-index",
+    "title": "Labour Department FAQ Index",
+    "url": "https://www.labour.gov.hk/eng/faq/content.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index.html",
+    "downloaded_at": "2026-04-22T12:48:00.696257+00:00"
+  },
+  {
+    "id": "faq-index-topic-1",
+    "title": "Labour Department FAQ Index Topic 1",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57a_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-1.html",
+    "downloaded_at": "2026-04-22T12:48:00.867284+00:00"
+  },
+  {
+    "id": "faq-index-topic-2",
+    "title": "Labour Department FAQ Index Topic 2",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57b_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-2.html",
+    "downloaded_at": "2026-04-22T12:48:01.044928+00:00"
+  },
+  {
+    "id": "faq-index-topic-3",
+    "title": "Labour Department FAQ Index Topic 3",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57c_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-3.html",
+    "downloaded_at": "2026-04-22T12:48:01.210507+00:00"
+  },
+  {
+    "id": "faq-index-topic-4",
+    "title": "Labour Department FAQ Index Topic 4",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57d_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-4.html",
+    "downloaded_at": "2026-04-22T12:48:01.378655+00:00"
+  },
+  {
+    "id": "faq-index-topic-5",
+    "title": "Labour Department FAQ Index Topic 5",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57e_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-5.html",
+    "downloaded_at": "2026-04-22T12:48:01.568162+00:00"
+  },
+  {
+    "id": "faq-index-topic-6",
+    "title": "Labour Department FAQ Index Topic 6",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57f_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-6.html",
+    "downloaded_at": "2026-04-22T12:48:01.932269+00:00"
+  },
+  {
+    "id": "faq-index-topic-7",
+    "title": "Labour Department FAQ Index Topic 7",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57g_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-7.html",
+    "downloaded_at": "2026-04-22T12:48:02.097226+00:00"
+  },
+  {
+    "id": "faq-index-topic-8",
+    "title": "Labour Department FAQ Index Topic 8",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57h_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-8.html",
+    "downloaded_at": "2026-04-22T12:48:02.261844+00:00"
+  },
+  {
+    "id": "faq-index-topic-9",
+    "title": "Labour Department FAQ Index Topic 9",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57n_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-9.html",
+    "downloaded_at": "2026-04-22T12:48:02.451780+00:00"
+  },
+  {
+    "id": "faq-index-topic-10",
+    "title": "Labour Department FAQ Index Topic 10",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57i_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-10.html",
+    "downloaded_at": "2026-04-22T12:48:02.619549+00:00"
+  },
+  {
+    "id": "faq-index-topic-11",
+    "title": "Labour Department FAQ Index Topic 11",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57j_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-11.html",
+    "downloaded_at": "2026-04-22T12:48:02.784360+00:00"
+  },
+  {
+    "id": "faq-index-topic-12",
+    "title": "Labour Department FAQ Index Topic 12",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57k_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-12.html",
+    "downloaded_at": "2026-04-22T12:48:02.949562+00:00"
+  },
+  {
+    "id": "faq-index-topic-13",
+    "title": "Labour Department FAQ Index Topic 13",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57l_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-13.html",
+    "downloaded_at": "2026-04-22T12:48:03.141625+00:00"
+  },
+  {
+    "id": "faq-index-topic-14",
+    "title": "Labour Department FAQ Index Topic 14",
+    "url": "https://www.labour.gov.hk/eng/faq/cap57m_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-14.html",
+    "downloaded_at": "2026-04-22T12:48:03.306015+00:00"
+  },
+  {
+    "id": "faq-index-topic-15",
+    "title": "Labour Department FAQ Index Topic 15",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_coverage.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-15.html",
+    "downloaded_at": "2026-04-22T12:48:03.469599+00:00"
+  },
+  {
+    "id": "faq-index-topic-16",
+    "title": "Labour Department FAQ Index Topic 16",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_basic_principles.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-16.html",
+    "downloaded_at": "2026-04-22T12:48:03.666254+00:00"
+  },
+  {
+    "id": "faq-index-topic-17",
+    "title": "Labour Department FAQ Index Topic 17",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_hours_worked.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-17.html",
+    "downloaded_at": "2026-04-22T12:48:03.831592+00:00"
+  },
+  {
+    "id": "faq-index-topic-18",
+    "title": "Labour Department FAQ Index Topic 18",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_wage_items.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-18.html",
+    "downloaded_at": "2026-04-22T12:48:03.995510+00:00"
+  },
+  {
+    "id": "faq-index-topic-19",
+    "title": "Labour Department FAQ Index Topic 19",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_additional_remuneration.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-19.html",
+    "downloaded_at": "2026-04-22T12:48:04.187721+00:00"
+  },
+  {
+    "id": "faq-index-topic-20",
+    "title": "Labour Department FAQ Index Topic 20",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_reckoning_and_payment_commission.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-20.html",
+    "downloaded_at": "2026-04-22T12:48:04.348824+00:00"
+  },
+  {
+    "id": "faq-index-topic-21",
+    "title": "Labour Department FAQ Index Topic 21",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_computing_statutory_entitlements.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-21.html",
+    "downloaded_at": "2026-04-22T12:48:04.513590+00:00"
+  },
+  {
+    "id": "faq-index-topic-22",
+    "title": "Labour Department FAQ Index Topic 22",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_keeping_record.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-22.html",
+    "downloaded_at": "2026-04-22T12:48:04.715069+00:00"
+  },
+  {
+    "id": "faq-index-topic-23",
+    "title": "Labour Department FAQ Index Topic 23",
+    "url": "https://www.labour.gov.hk/eng/faq/smw_others.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-23.html",
+    "downloaded_at": "2026-04-22T12:48:04.878064+00:00"
+  },
+  {
+    "id": "faq-index-topic-24",
+    "title": "Labour Department FAQ Index Topic 24",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282a_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-24.html",
+    "downloaded_at": "2026-04-22T12:48:05.042849+00:00"
+  },
+  {
+    "id": "faq-index-topic-25",
+    "title": "Labour Department FAQ Index Topic 25",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282b_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-25.html",
+    "downloaded_at": "2026-04-22T12:48:05.248802+00:00"
+  },
+  {
+    "id": "faq-index-topic-26",
+    "title": "Labour Department FAQ Index Topic 26",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282c_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-26.html",
+    "downloaded_at": "2026-04-22T12:48:05.463191+00:00"
+  },
+  {
+    "id": "faq-index-topic-27",
+    "title": "Labour Department FAQ Index Topic 27",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282d_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-27.html",
+    "downloaded_at": "2026-04-22T12:48:05.763820+00:00"
+  },
+  {
+    "id": "faq-index-topic-28",
+    "title": "Labour Department FAQ Index Topic 28",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282e_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-28.html",
+    "downloaded_at": "2026-04-22T12:48:05.927581+00:00"
+  },
+  {
+    "id": "faq-index-topic-29",
+    "title": "Labour Department FAQ Index Topic 29",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282f_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-29.html",
+    "downloaded_at": "2026-04-22T12:48:06.089837+00:00"
+  },
+  {
+    "id": "faq-index-topic-30",
+    "title": "Labour Department FAQ Index Topic 30",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282g_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-30.html",
+    "downloaded_at": "2026-04-22T12:48:06.288959+00:00"
+  },
+  {
+    "id": "faq-index-topic-31",
+    "title": "Labour Department FAQ Index Topic 31",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282h_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-31.html",
+    "downloaded_at": "2026-04-22T12:48:06.457320+00:00"
+  },
+  {
+    "id": "faq-index-topic-32",
+    "title": "Labour Department FAQ Index Topic 32",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282i_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-32.html",
+    "downloaded_at": "2026-04-22T12:48:06.619752+00:00"
+  },
+  {
+    "id": "faq-index-topic-33",
+    "title": "Labour Department FAQ Index Topic 33",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282j_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-33.html",
+    "downloaded_at": "2026-04-22T12:48:06.810652+00:00"
+  },
+  {
+    "id": "faq-index-topic-34",
+    "title": "Labour Department FAQ Index Topic 34",
+    "url": "https://www.labour.gov.hk/eng/faq/cap282k_whole.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-34.html",
+    "downloaded_at": "2026-04-22T12:48:06.975240+00:00"
+  },
+  {
+    "id": "faq-index-topic-35",
+    "title": "Labour Department FAQ Index Topic 35",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq1_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-35.html",
+    "downloaded_at": "2026-04-22T12:48:07.138560+00:00"
+  },
+  {
+    "id": "faq-index-topic-36",
+    "title": "Labour Department FAQ Index Topic 36",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq4_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-36.html",
+    "downloaded_at": "2026-04-22T12:48:07.335225+00:00"
+  },
+  {
+    "id": "faq-index-topic-37",
+    "title": "Labour Department FAQ Index Topic 37",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq5_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-37.html",
+    "downloaded_at": "2026-04-22T12:48:07.499549+00:00"
+  },
+  {
+    "id": "faq-index-topic-38",
+    "title": "Labour Department FAQ Index Topic 38",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq6_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-38.html",
+    "downloaded_at": "2026-04-22T12:48:07.662681+00:00"
+  },
+  {
+    "id": "faq-index-topic-39",
+    "title": "Labour Department FAQ Index Topic 39",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq7_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-39.html",
+    "downloaded_at": "2026-04-22T12:48:07.858827+00:00"
+  },
+  {
+    "id": "faq-index-topic-40",
+    "title": "Labour Department FAQ Index Topic 40",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq8_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-40.html",
+    "downloaded_at": "2026-04-22T12:48:08.024077+00:00"
+  },
+  {
+    "id": "faq-index-topic-41",
+    "title": "Labour Department FAQ Index Topic 41",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq9_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-41.html",
+    "downloaded_at": "2026-04-22T12:48:08.189000+00:00"
+  },
+  {
+    "id": "faq-index-topic-42",
+    "title": "Labour Department FAQ Index Topic 42",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq10_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-42.html",
+    "downloaded_at": "2026-04-22T12:48:08.384060+00:00"
+  },
+  {
+    "id": "faq-index-topic-43",
+    "title": "Labour Department FAQ Index Topic 43",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq11_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-43.html",
+    "downloaded_at": "2026-04-22T12:48:08.546850+00:00"
+  },
+  {
+    "id": "faq-index-topic-44",
+    "title": "Labour Department FAQ Index Topic 44",
+    "url": "https://www.labour.gov.hk/eng/faq/oshq12_whole.html",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/faq-index-topic-44.html",
+    "downloaded_at": "2026-04-22T12:48:08.711318+00:00"
+  },
+  {
+    "id": "service-index",
+    "title": "Labour Department Services Index",
+    "url": "https://www.labour.gov.hk/eng/service/content.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index.html",
+    "downloaded_at": "2026-04-22T12:48:08.907361+00:00"
+  },
+  {
+    "id": "service-index-topic-45",
+    "title": "Labour Department Services Index Topic 45",
+    "url": "https://www.labour.gov.hk/eng/service/content8.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-45.html",
+    "downloaded_at": "2026-04-22T12:48:09.075094+00:00"
+  },
+  {
+    "id": "service-index-topic-46",
+    "title": "Labour Department Services Index Topic 46",
+    "url": "https://www.labour.gov.hk/eng/service/content4_4a.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-46.html",
+    "downloaded_at": "2026-04-22T12:48:09.239359+00:00"
+  },
+  {
+    "id": "service-index-topic-47",
+    "title": "Labour Department Services Index Topic 47",
+    "url": "https://www.labour.gov.hk/eng/service/content6.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-47.html",
+    "downloaded_at": "2026-04-22T12:48:09.434094+00:00"
+  },
+  {
+    "id": "service-index-topic-48",
+    "title": "Labour Department Services Index Topic 48",
+    "url": "https://www.labour.gov.hk/eng/service/content1.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-48.html",
+    "downloaded_at": "2026-04-22T12:48:09.661965+00:00"
+  },
+  {
+    "id": "service-index-topic-49",
+    "title": "Labour Department Services Index Topic 49",
+    "url": "https://www.labour.gov.hk/eng/service/content5.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-49.html",
+    "downloaded_at": "2026-04-22T12:48:09.956800+00:00"
+  },
+  {
+    "id": "service-index-topic-50",
+    "title": "Labour Department Services Index Topic 50",
+    "url": "https://www.labour.gov.hk/eng/service/content2.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-50.html",
+    "downloaded_at": "2026-04-22T12:48:10.123506+00:00"
+  },
+  {
+    "id": "service-index-topic-51",
+    "title": "Labour Department Services Index Topic 51",
+    "url": "https://www.labour.gov.hk/eng/service/content3.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-51.html",
+    "downloaded_at": "2026-04-22T12:48:10.286586+00:00"
+  },
+  {
+    "id": "service-index-topic-52",
+    "title": "Labour Department Services Index Topic 52",
+    "url": "https://www.labour.gov.hk/eng/service/content4.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-52.html",
+    "downloaded_at": "2026-04-22T12:48:10.482250+00:00"
+  },
+  {
+    "id": "service-index-topic-53",
+    "title": "Labour Department Services Index Topic 53",
+    "url": "https://www.labour.gov.hk/eng/service/gbayes.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/service-index-topic-53.html",
+    "downloaded_at": "2026-04-22T12:48:10.685949+00:00"
+  },
+  {
+    "id": "legislation-content1",
+    "title": "Labour Legislation Content 1",
+    "url": "https://www.labour.gov.hk/eng/legislat/content1.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/legislation-content1.html",
+    "downloaded_at": "2026-04-22T12:48:10.851076+00:00"
+  },
+  {
+    "id": "legislation-content2",
+    "title": "Labour Legislation Content 2",
+    "url": "https://www.labour.gov.hk/eng/legislat/content2.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/legislation-content2.html",
+    "downloaded_at": "2026-04-22T12:48:11.162340+00:00"
+  },
+  {
+    "id": "legislation-content3",
+    "title": "Labour Legislation Content 3",
+    "url": "https://www.labour.gov.hk/eng/legislat/content3.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/legislation-content3.html",
+    "downloaded_at": "2026-04-22T12:48:11.327951+00:00"
+  },
+  {
+    "id": "legislation-content4",
+    "title": "Labour Legislation Content 4",
+    "url": "https://www.labour.gov.hk/eng/legislat/content4.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/legislation-content4.html",
+    "downloaded_at": "2026-04-22T12:48:11.531540+00:00"
+  },
+  {
+    "id": "legislation-content5",
+    "title": "Labour Legislation Content 5",
+    "url": "https://www.labour.gov.hk/eng/legislat/content5.htm",
+    "kind": "html",
+    "content_type": "text/html",
+    "local_path": "/Users/dan06ial/projects/pobot-ai/data/raw/legislation-content5.html",
+    "downloaded_at": "2026-04-22T12:48:11.696551+00:00"
+  }
+]
