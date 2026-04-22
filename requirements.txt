@@ -3,7 +3,7 @@ requests==2.32.3
 beautifulsoup4==4.13.3
 pypdf==5.4.0
 sentence-transformers==4.1.0
-faiss-cpu==1.10.0
+faiss-cpu==1.13.2
 openai==1.75.0
 pytest==8.3.5
 cryptography==46.0.3
